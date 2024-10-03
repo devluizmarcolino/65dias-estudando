@@ -1,0 +1,26 @@
+JavaScript é uma linguagem que você pode fazer interação com o navegador;
+
+Por que colocar o 'script src' no final do body? Por que primerio vai carregar todos os items do meu site e depois de alguns milisegundos, o arquivo javascript (que geralmente é grande) vai ser carregado. Em resumo, o meu site ficará mais rápido.
+
+DICA -> Não ter medo dos erros; Escreva e coloque o que quiser.
+
+Variáveis -> 
+Variável eu posso definir uma única e posso usá-la em todo o meu sistema
+
+Tipos de variáveis (três principais): number, string e boolean
+
+Conceito de comentário -> serve para o programador saber o que é aquilo no código
+
+Array é uma lista de items; Para pegar um único item na lista de um arary é só utilizar o "[]" e escolher entre 0 há quantidade de items; Ex: ingredientes[2]
+
+objeto é tudo aquilo que possui características (na programação é chamado de propiedades) e para escolhr um único objeto é só colocar um ponto; Ex: personagem.nome // personagem.mana
+
+Função é um bloco de código que eu crio e deixo quietinho, ela só faz algo quando eu usar ela. Eu posso realizar essa minha função mais de uma vez, por isso é bom usar functions
+
+ArrowFunction é uma função que é feita de forma diferente, mas o uso é igual
+
+três etapas:
+
+input -> é os dados que eu entrego para ela;
+processa ->
+- output -> entrega um retorno
